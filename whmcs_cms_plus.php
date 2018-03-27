@@ -42,10 +42,9 @@ function whmcs_cms_plus_config(){
 	$configarray["name"] = "WHMCS CMS Plus";
     $configarray["description"] = "The all in one content management solution for WHMCS.";
     $configarray["version"] = "3.0.0";
-    $configarray["author"] = '<a href="http://clients.no-half-pixels.com" target="_blank" title="No Half Pixels"><img src="../modules/addons/'.basename(__FILE__, '.php').'/logo.png" alt="Black Nova Designs"/></a>';
+    $configarray["author"] = '<a href="https://wwww.blacknovadesigns.co.uk" target="_blank" title="Black Nova Designs"><img src="../modules/addons/'.basename(__FILE__, '.php').'/logo.png" alt="Black Nova Designs"/></a>';
     $configarray["language"] = "english";
     $configarray["premium"] = true;
-    $configarray["fields"]["license"] = array ("FriendlyName" => "License", "Type" => "text", "Size" => "50", "Description" => "Enter your your license key.");
  
     return $configarray;
 }
