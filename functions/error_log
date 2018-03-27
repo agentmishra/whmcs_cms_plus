@@ -1,0 +1,16 @@
+[07-Oct-2017 19:07:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_hook() in /home/pulseem1/public_html/modules/addons/whmcs_cms_plus/functions/help.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/pulseem1/public_html/modules/addons/whmcs_cms_plus/functions/help.php on line 2
+[07-Oct-2017 19:07:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_hook() in /home/pulseem1/public_html/modules/addons/whmcs_cms_plus/functions/comments.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/pulseem1/public_html/modules/addons/whmcs_cms_plus/functions/comments.php on line 2
+[07-Oct-2017 19:07:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_hook() in /home/pulseem1/public_html/modules/addons/whmcs_cms_plus/functions/settings.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/pulseem1/public_html/modules/addons/whmcs_cms_plus/functions/settings.php on line 5
+[07-Oct-2017 19:07:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_hook() in /home/pulseem1/public_html/modules/addons/whmcs_cms_plus/functions/content_types.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/pulseem1/public_html/modules/addons/whmcs_cms_plus/functions/content_types.php on line 4
