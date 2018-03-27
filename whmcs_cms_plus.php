@@ -100,9 +100,8 @@ function whmcs_cms_plus_sidebar($vars) {
     $sidebar = '<span class="header"><img src="images/icons/addonmodules.png" class="absmiddle" width="16" height="16" /> '.$LANG['sidebar_name'].'</span>
     <ul class="menu">
         <li><a href="configaddonmods.php#whmcs_cms_plus">'.$LANG['sidebar_config'].'</a></li>
-        <li><a href="https://clients.no-half-pixels.com/whmcs-cms-plus" target="_blank">'.$LANG['sidebar_version'].': '.$vars['version'].'</a></li>
-        <li><a href="https://clients.no-half-pixels.com/forum" target="_blank">'.$LANG['sidebar_support'].'</a></li>
-        <li><a href="https://clients.no-half-pixels.com/whmcs-modules" target="_blank">'.$LANG['sidebar_other_addons'].'</a></li>
+        <li><a href="https://www.blacknovadesigns.co.ukforums/forum/41-whmcs-cms-plus/" target="_blank">'.$LANG['sidebar_version'].': '.$vars['version'].'</a></li>
+        <li><a href="https://www.blacknovadesigns.co.uk/forums/forum/41-whmcs-cms-plus/" target="_blank">'.$LANG['sidebar_support'].'</a></li>
     </ul>';
     
     return $sidebar;
