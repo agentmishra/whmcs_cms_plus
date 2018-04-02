@@ -34,3 +34,6 @@ V3 is a remake of the WHMCS CMS Plus Module, which no longer has support or deve
 * WHMCS 7.4 Compatibility added
 * Featured Image on content type added
 * Fixed HTML5 Tags being removed by ckeditor
+
+**3.0.1**
+*WHMCS 7.5 Compatibility added
