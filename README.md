@@ -15,7 +15,7 @@ V3 is a remake of the WHMCS CMS Plus Module, which no longer has support or deve
 
 ## Upgrade instructions
 
-* Download the latest version from https://www.blacknovadesigns.co.uk
+* Download the latest version from https://www.blacknovadesigns.co.uk/forums/topic/257-whmcs-cms-plus-download-link/
 * Unzip the download
 * Replace the module folder on your site with the new version
 * Visit your admin areas Addon Modules settings page
